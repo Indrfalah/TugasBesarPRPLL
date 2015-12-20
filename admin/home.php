@@ -5,7 +5,7 @@ include "koneksi.php";
     <!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Ujian Online -- Ri32.Wordpress.Com</title>
+		<title>Tes Potensi Akademik</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="Description" content="description" />
 		<meta name="Keywords" content="keywords" />
@@ -86,7 +86,7 @@ include "koneksi.php";
 						<!-- Side Box Begin -->
 						<div class="side-box-top"></div>
 						<div class="side-box-middle">
-						<img src="images/user-online.jpeg" width="200" height="176" border="0" />
+						
 						<br />
 						<br />
 						</div>
@@ -102,10 +102,7 @@ include "koneksi.php";
 			<div id="body-bottom"></div>
 
 			<!-- Footer -->
-			<div id="footer">
-				<p><a href="http://www.studio7designs.com"><font color="#666666">web design by studio7designs.com</font></a></p>
-		  </div>
-			
+		
 		</div>
 	</body>
 	</html>

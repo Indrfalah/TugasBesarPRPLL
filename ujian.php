@@ -22,10 +22,10 @@ if(isset($_SESSION['id_user'])){
 			<form name="form1" method="post" action="?page=jawaban">
 			<input type="hidden" name="id[]" value=<?php echo $id; ?>>
 			<input type="hidden" name="jumlah" value=<?php echo $jumlah; ?>>
-			<table width="457" border="0">
+			<table width="518" border="0">
 			<tr>
 			  	<td width="17"><font color="#FFFFFF"><?php echo $urut=$urut+1; ?></font></td>
-			  	<td width="430"><font color="#FFFFFF"><?php echo "$pertanyaan"; ?></font></td>
+			  	<td width="491"><font color="#FFFFFF"><?php echo "$pertanyaan"; ?></font></td>
 			</tr>
 			<tr>
 			  	<td height="21">&nbsp;</td>
