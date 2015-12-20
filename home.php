@@ -4,7 +4,7 @@ include "koneksi.php";
     <!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Ujian Online -- Ri32.Wordpress.Com</title>
+		<title>Tes Potensi Akademik</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="Description" content="description" />
 		<meta name="Keywords" content="keywords" />
@@ -58,7 +58,7 @@ include "koneksi.php";
 					<!-- Nameplate Box -->
 					<div id="nameplate-top"></div>
 					<div id="nameplate-middle" class="clearfix">
-						<h2><font color="#333333"><b><marquee behavior="scroll" scrollamount="5">Selamat Datang di Ujian Online - <blink>Ri32</blink></marquee></b></font></h2>
+						<h2><font color="#333333"><b><marquee behavior="scroll" scrollamount="5">Selamat Datang </marquee></b></font></h2>
 					</div>
 					<div id="nameplate-bottom"></div>
 
@@ -99,9 +99,7 @@ include "koneksi.php";
 						?>
 						<!-- Side Box Begin -->
 						<div class="side-box-top"></div>
-						<div class="side-box-middle">
-						<img src="images/user-online.jpeg" width="200" height="200" border="0" />
-						<br />
+						<div class="side-box-middle"><br />
 						<br />
 						</div>
 						<div class="side-box-bottom"></div>
@@ -115,11 +113,7 @@ include "koneksi.php";
 			</div>
 			<div id="body-bottom"></div>
 
-			<!-- Footer -->
-			<div id="footer">
-				<p><a href="http://www.studio7designs.com"><font color="#666666">web design by studio7designs.com</font></a></p>
-		  </div>
-			
+						
 		</div>
 	</body>
 	</html>
